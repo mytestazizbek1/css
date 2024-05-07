@@ -1,0 +1,60 @@
+#end{
+    border: solid;
+    border-color: white;
+    width: max-content;
+    height: max-content;
+    margin-left: 250px;
+    margin-top: 70px;
+}
+h1.end{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+#head{
+    height: 300px;
+    width: 600px;
+    border-color: black;
+    border: solid;
+    background-color: brown;
+}
+h1.head{
+    padding-left: 35px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+p.text1{
+    color: white;
+    text-align: center;
+}
+#head2 {
+    font-family: Georgia, Times, serif;
+    font-size: 90%;
+    color: #666;
+    background-color: #f8f8f8;}
+table {
+    border-spacing: 0px;}
+th {
+    text-transform: uppercase;
+    letter-spacing: 0.1em;}
+th, td {
+    padding: 7px 10px 10px 10px;
+    border-spacing: 0px;
+    font-size: 90%;
+    margin: 0px;
+    border-top: 1px solid #f1f8fe;
+    border-bottom: 1px solid #cbd2d8;
+    border-right: 1px solid #cbd2d8;
+    text-align: left; }
+tr.head th {
+    color: #fff;
+    background-color: #09790f;
+    border-bottom: 2px solid #547ca0;
+    border-right: 1px solid #749abe;
+    border-top: 1px solid #90b4d6; text-align: center; text-shadow: -1px -1px 1px #666; letter-spacing: 0.15em;}
+.price {
+    text-align: center;}
+tr.next{
+    color: blue;
+    font-weight: bold;
+}
